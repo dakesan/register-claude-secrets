@@ -6,7 +6,7 @@ Claude CodeのOAuth認証情報をGitHub Secretsに自動登録するツール
 
 このツールは、Claude Codeの認証情報（`~/.claude/.credentials.json`）を読み取り、GitHub ActionsでClaude Codeを使用するために必要なシークレットを自動的に登録します。
 
-参考記事: [Claude Codeによるbotで無限の時間を手に入れる](https://qiita.com/akira_funakoshi/items/e101a4e3ac9844e7b313)
+参考記事: [Claude Maxプラン料金内でClaude Code GitHub Actionsを使うためのガイドまとめ](https://qiita.com/akira_funakoshi/items/e101a4e3ac9844e7b313)
 
 ## 必要な環境
 
